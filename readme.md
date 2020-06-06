@@ -3,11 +3,11 @@
 Bolun Cai, Xiangmin Xu, Kui Jia, Chunmei Qing, Dacheng Tao
 
 ## Requirement
-> * caffe 
-> * opencv2
+```shell
+pip3 install -r requirements.txt
+```
 
 ## Usage:
-simply type 
 ```shell
 python DehazeNet.py image_path
 ```
