@@ -9,7 +9,7 @@ pip3 install -r requirements.txt
 
 ## Usage:
 ```shell
-python DehazeNet.py image_path
+python3 DehazeNet.py image_path
 ```
 
 ## Demo:
